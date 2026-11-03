@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Replace example.com with the official canonical HTTPS domain before deployment. -->
-  <url>
-    <loc>https://example.com/</loc>
-  </url>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.isholaacademy.com.ng/</loc>
+	<lastmod>2026-11-03T20:11:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
 </urlset>
